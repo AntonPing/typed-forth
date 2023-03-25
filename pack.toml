@@ -1,0 +1,10 @@
+[custom.all.typed-forth]
+type = "local"
+path = "."
+ipkg = "typed-forth.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.typed-forth-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
